@@ -1,4 +1,4 @@
-# Download3GPP
+# Download 3GPP
 Download 3GPP latest specification documents
 
 This script jut download the lastest 3GPP speicifcation document from 3GPP sites.
